@@ -1,4 +1,4 @@
-# UtazokGUI
+# Utazók - GUI
 ```
  Az utazok.csv fájl különböző utazások adatait (név, város, dátum, indulás)
  tartalmazza, pontosvesszővel elválasztva, utf-8 kódolással. NINCS fejléc!
